@@ -25,7 +25,7 @@
 | [Лабораторна робота 2](2_lab/README.md)                           |:heavy_check_mark:|
 | [Лабораторна робота 3](3_lab/README.md)                           |:heavy_check_mark:|
 | [Лабораторна робота 4](4_lab/README.md)                           |:heavy_check_mark:|
-| [Лабораторна робота 5](https://bobasb.github.io/2023_tk330_oop/)  |:heavy_check_mark:|
+| [Лабораторна робота 5](https://aklyps.github.io/aklyps_tk330/)  |:heavy_check_mark:|
 
 Ця таблиця буде оновлюватися після кожного завдання, в якому я виконаю лабораторну роботу.
 
